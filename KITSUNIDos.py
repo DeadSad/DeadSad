@@ -70,7 +70,7 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'USE: python hulk.py <url>'
+	print 'USE: python KITSUNIDos.py <url>'
 	print 'você pode adicionar "safe" após o url, para desligar automaticamente após o dos'
 	print '---------------------------------------------------'
 
